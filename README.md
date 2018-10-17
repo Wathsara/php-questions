@@ -1,5 +1,8 @@
 # php-questions
-q2.php
+
+# Question 2
+
+
 count the number of molecules in a cup of soda which contains distilled water, carbon dioxide, andglucose.
 You have a machine that counts the number of atoms of carbon, hydrogen, and oxygen in a givensample.
 Input Format
