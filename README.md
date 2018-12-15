@@ -1,6 +1,6 @@
 # php-questions
 
-# Question 2
+## Question 2
 
 
 count the number of molecules in a cup of soda which contains distilled water, carbon dioxide, andglucose.
@@ -17,7 +17,7 @@ the number of carbon dioxide molecules, and the number of glucosemolecules.If th
 with a mixture containing only water, carbon dioxide, andglucose molecules , the output should consist of a line 
 containing the word Error
 
-Question 3
+## Question 3
 
     Your friend, Alice, is starting a dog walking business. She already has K dog walkers employed, and today there are N dogs that need to be walked. Each dog walker can walk multiple dogs at the same time, so the dogs will be arranged into K nonempty groups, and each group will then be walked by a single dog walker. However, smaller dogs can be aggressive towards larger dogs, and that makes it harder to walk them together.
 
